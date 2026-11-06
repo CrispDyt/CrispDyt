@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chris
-- 👀 I’m dedicated in nonlinear dynamic system theorem, including learning chaotic systems, ODE discovery, time-delay embedding and spatial-temporal chaos).
-- 🌱 I’m have a bachler's double degree in Engineering and Enconomy, a master degree in Mathematics and my current PHD topics is focued on partially observed nonlinear dynamics and its application in public health.  
-- 💞️ I’m looking to collaborate on nonlinear dynamical systems and system dynamics in epdemiology.  
+- 👀 I’m dedicated in nonlinear dynamic systems, LLM and stochastic control theory. 
+- 🌱 I’m have a bachler's double degree in Engineering and Enconomy, a master degree in Mathematics and PHD degree in Mathematical physics.  
+- 💞️ I’m looking to collaborate on nonlinear dynamical systems and LLM.  
 - 📫 My personal webpage - https://crisp-dyt.netlify.app/
 
 <!---
